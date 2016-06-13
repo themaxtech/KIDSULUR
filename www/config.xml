@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="in.kidzeekadampadi.kidzee" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>KIDZEE Kadampadi</name>
+<widget id="com.kidzeekadampadi.kidzee" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>Kidzee Kadampadi</name>
     <description>
       Welcome to KIDZEE Kadampadi
     </description>
